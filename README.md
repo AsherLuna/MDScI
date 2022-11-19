@@ -1,6 +1,6 @@
 # Asher Luna
 #### MDScI Student
-En su barba vivían tres <span style="color:red">cardenales</span>.
+En su barba vivían tres <span style="color:yellow">cardenales</span>.
 
 ## Projects of Data Science
 <br>
