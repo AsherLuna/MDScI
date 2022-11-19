@@ -2,6 +2,8 @@
 #### MDScI Student
 En su barba vivían tres <span style="color:yellow">cardenales</span>.
 foo <font color='yellow'>bar</font> foo
+`rgb(9, 105, 218)`
+
 
 ## Projects of Data Science
 <br>
