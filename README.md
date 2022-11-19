@@ -1,9 +1,7 @@
 # Asher Luna
 #### MDScI Student
-En su barba vivían tres <span style="color:yellow">cardenales</span>.
-foo <font color='yellow'>bar</font> foo
-`rgb(9, 105, 218)`
-
+<En su barba vivían tres <span style="color:yellow">cardenales</span>.foo <font color='yellow'>bar</font> foo>
+En su barba vivían tres <span style='rgb(9, 105, 218)'>cardenales</span>.
 
 ## Projects of Data Science
 <br>
