@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-This repository contains some project made by me about data analysis and visualization.
+This repository contains some projects made by me about data analysis and visualization.
 
 ## -Index-
 1. Data cleaning (retirar stopwords, urls, hasttags, usuarios, acentos y signos de puntuación, pasar a minúsculas)
