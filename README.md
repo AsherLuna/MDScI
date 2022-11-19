@@ -1,6 +1,7 @@
 # Asher Luna
 #### MDScI Student
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.<br>
+`#0969DA`
 
 
 ## Projects of Data Science
