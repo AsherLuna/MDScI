@@ -5,9 +5,6 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 
 
 ## Projects of Data Science
-<br>
-<br>
-<br>
 This repository contains some projects made by me about data analysis and visualization.
 
 ## -Index-
