@@ -10,6 +10,6 @@ $\quad$ - In this project is shown how to clean data eliminating different eleme
 2. Data visualization.<br>
 $\quad$ -This project shows the difference between raw data and cleaned data.
 3. Poker.<br>
-$\quad$ -In this project it's shown 
+$\quad$ -In this project it's shown a simple poker function that generates 5 cards and tell's you wich classification you get.
 4. Sentiment Analysis - Aggressiveness.<br>
 $\quad$ -This project was created to train a system to classify Tweets to check if they show aggressiveness or not.
