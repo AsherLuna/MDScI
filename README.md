@@ -2,7 +2,7 @@
 #### MDScI Student
 
 ## Data Science Projects
-This repository contains some projects made by me about data analysis and visualization.
+This repository contains some projects made by myself about data analysis and visualization.
 
 ## -Index-
 1. Data Cleaning Techniques.<br>
