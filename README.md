@@ -1,7 +1,7 @@
 # Asher Luna
 #### MDScI Student
 
-## Projects of Data Science
+## Data Science Projects
 This repository contains some projects made by me about data analysis and visualization.
 
 ## -Index-
